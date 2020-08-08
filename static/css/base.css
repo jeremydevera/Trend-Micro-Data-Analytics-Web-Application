@@ -1,0 +1,29 @@
+html {
+    /* padding: 20px; */
+    /* background-color: rgba(255, 210, 210, 0.692); */
+    background-color: rgba(182, 225, 253, 0.493);
+    /* rgba(206, 206, 206, 0.322); */
+}
+
+body {
+    /* background-color: rgba(221, 138, 138, 0.966); */
+    background-color: rgba(17, 58, 97, 0);
+    padding: 10px;
+}
+
+#logo {
+    padding: 10px;
+    width:  150px;
+    height: 60px;
+    text-align: center;
+}
+
+#navbar {
+    /* background-color: rgb(117, 0, 0); */
+    background-color: rgb(17, 58, 97);
+    /* /* width: calc(100% - 40px); */
+    margin-top: 0px;
+    /* margin-left: 20px; */
+}
+
+/* rgba(0, 0, 0, 0.637); */

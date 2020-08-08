@@ -1,0 +1,13 @@
+#outer {
+    height: 65%; 
+    border-color: rgba(206, 206, 206, 0.322);
+    border-style: solid;
+}
+
+#inner1 {
+    overflow-x:scroll;
+}
+
+#inner2 {
+    height: 100%;
+}
